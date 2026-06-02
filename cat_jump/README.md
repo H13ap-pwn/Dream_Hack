@@ -44,7 +44,8 @@
 
 ## SCRIPT :
 
-<img width="1748" height="1450" alt="image" src="https://github.com/user-attachments/assets/62a4d8f4-3325-493d-9aa4-6aafbdce13c0" />
+<img width="1673" height="1370" alt="image" src="https://github.com/user-attachments/assets/10e55ec4-7ac4-4650-8f23-ccb1a0d2fb21" />
+
 
 # 4. Get Flag :
 
