@@ -14,7 +14,9 @@
 
 # 3. Exploit :
 
-<img width="955" height="239" alt="image" src="https://github.com/user-attachments/assets/642f95fb-0000-4ae9-ad6a-ef9e42756c20" />
+- Từ dockerfile -> leak libc 
+
+<img width="997" height="209" alt="image" src="https://github.com/user-attachments/assets/ff3b95ff-6371-495d-9718-39a21d31f85b" />
 
 - Khai báo, load thư viện của C (vì hàm rand của C khác python)
 
@@ -44,4 +46,14 @@
 
 <img width="1748" height="1450" alt="image" src="https://github.com/user-attachments/assets/62a4d8f4-3325-493d-9aa4-6aafbdce13c0" />
 
-# 4. Get Flag 
+# 4. Get Flag :
+
+<img width="1690" height="391" alt="image" src="https://github.com/user-attachments/assets/40ac90ce-37dd-400d-bdd1-00db9bb3c891" />
+
+# 5. Learned :
+
+- Từ dockerfile -> có thể leak libc
+
+- Cách predict rand()
+
+- Một số mẹo với command injection
